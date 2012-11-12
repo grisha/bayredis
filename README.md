@@ -1,6 +1,9 @@
 # Bayredis
 
-TODO: Write a gem description
+This is a simple Bayesian classifier which uses Redis not only to
+store its state, but also to compute scores.
+
+TODO: Write more.
 
 ## Installation
 
